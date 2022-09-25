@@ -1,0 +1,19 @@
+{
+  "name": "@tyler.thayn/node.core",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tyler.thayn/js.core": "^0.13.14",
+    "fs-extra": "^10.0.0"
+  },
+  "devDependencies": {
+    "find-node-modules": "^2.1.3",
+    "grunt": "^1.5.3"
+  }
+}
